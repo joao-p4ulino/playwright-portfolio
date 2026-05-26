@@ -27,9 +27,6 @@ Os testes cobrem fluxos principais do Automation Exercise, incluindo:
 - validacoes de rolagem e elementos visiveis;
 - endpoints de API usados pelo site.
 
-Cenarios adicionais mapeados para evolucao futura estao em
-[`TEST-BACKLOG.md`](./TEST-BACKLOG.md).
-
 ## Estrutura
 
 ```text
